@@ -11,7 +11,7 @@ const TestNearConfig = {
   contractName: "v1.social08.testnet",
   walletUrl: "https://wallet.testnet.near.org",
   wrapNearAccountId: "wrap.testnet",
-  apiUrl: null,
+  apiUrl: "https://discovery-api-testnet-bo3sr7jszq-uc.a.run.app",
   enableWeb4FastRpc: false,
 };
 
